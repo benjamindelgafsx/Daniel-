@@ -99,7 +99,7 @@
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^7.2.0",
     "hoist-non-react-statics": "^3.3.1",
-    "husky": "^3.1.0",
+    "husky": "^8.0.3",
     "isomorphic-fetch": "^2.2.1",
     "sanitize-filename": "^1.6.3",
     "simple-vdf": "^1.1.1",
